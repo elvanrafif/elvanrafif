@@ -22,10 +22,27 @@ Frontend owner across two products, Transfez (consumer remittance) and Jack (B2B
 
 ## Selected Projects
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [RH-ERP](https://github.com/elvanrafif/RH-ERP) | Internal ERP for architecture, civil, and interior design operations, covering clients, quotations, invoices, petty cash, vendors, and project tracking | React · TypeScript · PocketBase · TanStack Query |
-| [Rate Limiter Demo](https://github.com/elvanrafif/rate-limiter-demo) | Redis-backed API implementing Fixed Window Counter, Sliding Window Log, and Token Bucket rate limiting, with atomic Lua scripts, concurrency tests, and Docker Compose setup | Node.js · Express · Redis · Lua · Vitest · Docker |
+<table>
+  <thead>
+    <tr>
+      <th width="24%">Project</th>
+      <th width="46%">Focus</th>
+      <th width="30%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/elvanrafif/RH-ERP">RH-ERP</a></td>
+      <td>Internal ERP for architecture, civil, and interior design operations, covering clients, quotations, invoices, petty cash, vendors, and project tracking</td>
+      <td>React · TypeScript · PocketBase · TanStack Query</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/elvanrafif/rate-limiter-demo">Rate Limiter Demo</a></td>
+      <td>Redis-backed API implementing Fixed Window Counter, Sliding Window Log, and Token Bucket rate limiting, with atomic Lua scripts, concurrency tests, and Docker Compose setup</td>
+      <td>Node.js · Express · Redis · Lua · Vitest · Docker</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
