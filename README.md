@@ -20,10 +20,11 @@ Frontend owner across two products, Transfez (consumer remittance) and Jack (B2B
 | Banking integrations | Owned the frontend integration of banking features for payments, across mobile & web |
 | Company milestone | Key frontend contributor during the company's YC W22 batch |
 
-## Backend projects
+## Selected Projects
 
-| Project | What it demonstrates | Stack |
+| Project | Focus | Stack |
 | --- | --- | --- |
+| [RH-ERP](https://github.com/elvanrafif/RH-ERP) | Internal ERP for architecture, civil, and interior design operations, covering clients, quotations, invoices, petty cash, vendors, and project tracking | React · TypeScript · PocketBase · TanStack Query |
 | [Rate Limiter Demo](https://github.com/elvanrafif/rate-limiter-demo) | Redis-backed API implementing Fixed Window Counter, Sliding Window Log, and Token Bucket rate limiting, with atomic Lua scripts, concurrency tests, and Docker Compose setup | Node.js · Express · Redis · Lua · Vitest · Docker |
 
 ---
