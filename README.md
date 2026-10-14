@@ -1,16 +1,25 @@
-## Hi there 👋
+# Muhammad Elvan Rafif
+ 
+Software Engineer, frontend-focused. 5 years in fintech (Jack Finance & Transfez, YC W22). Cross-border payments, TypeScript, React / React Native. Jakarta, open to remote.
+ 
+---
 
-<!--
-**elvanrafif/elvanrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+ 
+Joined Jack & Transfez as an early engineer, before the YC W22 acceptance, and stayed through 2026 (Jan 2021 – Sep 2026).
+ 
+Information Systems graduate (S.Kom, Universitas Gunadarma). After two years in banking operations at BNI Syariah, I returned to tech in 2020 through the Hacktiv8 Fullstack JavaScript bootcamp.
+ 
+Day to day I work with AI coding tools (Claude Code, Codex, Cursor) and keep the output reviewed and tested like any other code.
+ 
+---
+ 
+## Stack
+ 
+TypeScript · React · React Native · Next.js · TanStack Query · Node.js
+ 
+---
+ 
+## Elsewhere
+ 
+[LinkedIn](https://linkedin.com/in/elvanrafif) · [muhammadelvanrafif@gmail.com](mailto:muhammadelvanrafif@gmail.com) · [elvanrff.com](https://elvanrff.com) · Jakarta, Indonesia, open to remote roles
