@@ -32,6 +32,11 @@ Frontend owner across two products, Transfez (consumer remittance) and Jack (B2B
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/elvanrafif/ledgerflow">LedgerFlow</a></td>
+      <td>Full-stack transaction management demo for simulated money movement: idempotent create, an enforced status workflow from PENDING to terminal states, per-currency totals that are never combined, and owner-scoped access — split into thin routes over service and repository layers</td>
+      <td>TypeScript · Express · Next.js · PostgreSQL · Prisma · Zod · Bun</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/elvanrafif/RH-ERP">RH-ERP</a></td>
       <td>Internal ERP for architecture, civil, and interior design operations, covering clients, quotations, invoices, petty cash, vendors, and project tracking</td>
       <td>React · TypeScript · PocketBase · TanStack Query</td>
